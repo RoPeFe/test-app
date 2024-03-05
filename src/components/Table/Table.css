@@ -1,0 +1,45 @@
+.table-container {
+    margin: 0 4.125rem 2.625rem 4.125rem;
+}
+
+.table-container .table-title {
+    text-align: left;
+    font-size: 2rem;
+    font-weight: 400;
+    margin-top: 1.312rem;
+    margin-bottom: .65rem;
+}
+
+.table-container table {
+    border: 1px solid #464545;
+    margin: .625rem .625rem 2.625rem .625rem ;
+    text-align: left;
+    border-spacing: 1px;
+    background: #464545;
+}
+
+.table-container table thead th {
+    background-color: #222;
+    white-space: nowrap;
+}
+
+.table-container table thead th .sort-col {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    line-height: 65%;
+}
+
+.table-container table thead th .sort-arrows {
+    display: flex;
+    flex-direction: column;
+}
+
+.table-container table tbody td {
+    background-color: #1b1b1b;
+}
+
+.table-container table thead th,
+.table-container table tbody td {
+    padding: .5rem;
+}

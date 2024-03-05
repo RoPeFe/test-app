@@ -1,0 +1,585 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What type of animal was Harambe, who was shot after a child fell into it&#039;s enclosure at the Cincinnati Zoo?",
+            "correct_answer": "Gorilla",
+            "incorrect_answers": [
+                "Tiger",
+                "Panda",
+                "Crocodile"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "When was &quot;YouTube&quot; founded?",
+            "correct_answer": "February 14, 2005",
+            "incorrect_answers": [
+                "May 22, 2004",
+                "September 12, 2005",
+                "July 19, 2009"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is not a default game mode in Counter-Strike (2000)?",
+            "correct_answer": "Arms Race",
+            "incorrect_answers": [
+                "Hostage Rescue",
+                "Bomb Defusal",
+                "Assassination"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Gadgets",
+            "question": "The communication protocol NFC stands for Near-Field Control.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "San Marino is the only country completely surrounded by another country.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "In Marvel Comics, Taurus is the founder and leader of which criminal organization?",
+            "correct_answer": "Zodiac",
+            "incorrect_answers": [
+                "Scorpio",
+                "Tiger Mafia",
+                "The Union"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which character in the &quot;Animal Crossing&quot; series uses the phrase &quot;zip zoom&quot; when talking to the player?",
+            "correct_answer": "Scoot",
+            "incorrect_answers": [
+                "Drake",
+                "Bill",
+                "Mallary"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "Which issue of the &quot;Sonic the Hedgehog&quot; comic did Scourge the Hedgehog make his first appearance?",
+            "correct_answer": "Sonic the Hedgehog #11",
+            "incorrect_answers": [
+                "Sonic Universe #32",
+                "Sonic the Hedgehog #161",
+                "Sonic the Hedgehog #47"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of the following snipers has the highest amount of confirmed kills?",
+            "correct_answer": "Simo H&auml;yh&auml;",
+            "incorrect_answers": [
+                "Chris Kyle",
+                "Vasily Zaytsev",
+                "Craig Harrison"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which is the hull NO. of the Fletcher class destroyer Fletcher?",
+            "correct_answer": "DD-445",
+            "incorrect_answers": [
+                "DD-992",
+                "DD-444",
+                "DD-446"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "What year did the New Orleans Saints win the Super Bowl?",
+            "correct_answer": "2010",
+            "incorrect_answers": [
+                "2008",
+                "2009",
+                "2011"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is the chemical makeup of water?",
+            "correct_answer": "H20",
+            "incorrect_answers": [
+                "C12H6O2",
+                "CO2",
+                "H"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which of these is NOT a song featured on the Lockjaw EP released in 2013 by Flume &amp; Chet Faker?",
+            "correct_answer": "Left Alone",
+            "incorrect_answers": [
+                "What About Us",
+                "This Song Is Not About A Girl",
+                "Drop The Game"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Which of these bones is hardest to break?",
+            "correct_answer": "Femur",
+            "incorrect_answers": [
+                "Cranium",
+                "Humerus",
+                "Tibia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Rocket League is a game which features..",
+            "correct_answer": "Cars",
+            "incorrect_answers": [
+                "Helicopters",
+                "Planes",
+                "Submarines"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What was the last colony the UK ceded marking the end of the British Empire?",
+            "correct_answer": "Hong Kong",
+            "incorrect_answers": [
+                "India",
+                "Australia",
+                "Ireland"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "The majority of Subaru vehicles are made in China.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "An octopus can fit through any hole larger than its beak.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "In baseball, how many fouls are an out?",
+            "correct_answer": "0",
+            "incorrect_answers": [
+                "5",
+                "3",
+                "2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What mountain range lines the border between Spain and France?",
+            "correct_answer": "Pyrenees",
+            "incorrect_answers": [
+                "Alps",
+                "Carpathians",
+                "Urals"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What CoD &quot;Deathstreak&quot; is only featured in Call of Duty : Modern Warfare 2?",
+            "correct_answer": "Copycat",
+            "incorrect_answers": [
+                " Martrydom",
+                "Final Stand",
+                "Revenge"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "What&#039;s Harry Potter&#039;s dad&#039;s name?",
+            "correct_answer": "James Potter",
+            "incorrect_answers": [
+                "Joey Potter",
+                "Frank Potter",
+                "Hairy Potter Sr."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In which mall does &quot;Dead Rising&quot; take place?",
+            "correct_answer": "Willamette Parkview Mall",
+            "incorrect_answers": [
+                "Liberty Mall",
+                "Twin Pines Mall",
+                "Central Square Shopping Center"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Which church&#039;s interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?",
+            "correct_answer": "St. Peter&#039;s Basilica",
+            "incorrect_answers": [
+                "Catania Cathedral",
+                "St. Mark&rsquo;s Basilica",
+                "The Duomo of Florence"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "During the Wars of the Roses (1455 - 1487) which Englishman was dubbed &quot;the Kingmaker&quot;?",
+            "correct_answer": "Richard Neville",
+            "incorrect_answers": [
+                "Richard III",
+                "Henry V",
+                "Thomas Warwick"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these &quot;Worms&quot; games featured 3D gameplay?",
+            "correct_answer": "Worms 4: Mayhem",
+            "incorrect_answers": [
+                "Worms W.M.D",
+                "Worms Reloaded",
+                "Worms: Open Warfare 2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+            "correct_answer": ".svg",
+            "incorrect_answers": [
+                ".png",
+                ".jpeg",
+                ".gif"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "Rabbits can&#039;t vomit.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "&quot;Resident Evil 7&quot; is the first first-person Resident Evil game.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "In Kendrick Lamar&#039;s 2012 album, &quot;Good Kid, M.A.A.D City&quot;, the album&#039;s story takes place in which city?",
+            "correct_answer": "Compton",
+            "incorrect_answers": [
+                "Detroit",
+                "New York",
+                "Baltimore"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the nickname for the US state Delaware?",
+            "correct_answer": "The First State",
+            "incorrect_answers": [
+                "The Fiftieth State",
+                "The Second State",
+                "The Sixteenth State"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "Which of these voices wasn&#039;t a choice for the House AI in &quot;The Simpsons Treehouse of Horror&quot; short, House of Whacks?",
+            "correct_answer": "George Clooney",
+            "incorrect_answers": [
+                "Matthew Perry",
+                "Dennis Miller",
+                "Pierce Brosnan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What is the relationship between Rick and Morty in the show &quot;Rick and Morty&quot;?",
+            "correct_answer": "Grandfather and Grandson",
+            "incorrect_answers": [
+                "Father and Son",
+                "Best Friends",
+                "Crimefighting Partners"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following is not a character in the video game Doki Doki Literature Club?",
+            "correct_answer": "Nico",
+            "incorrect_answers": [
+                "Monika",
+                "Natsuki",
+                "Sayori"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",
+            "correct_answer": "Uranus",
+            "incorrect_answers": [
+                "Jupiter",
+                "Venus",
+                "Neptune"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of Indonesia?",
+            "correct_answer": "Jakarta",
+            "incorrect_answers": [
+                "Bandung",
+                "Medan",
+                "Palembang"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is the unit of electrical resistance?",
+            "correct_answer": "Ohm",
+            "incorrect_answers": [
+                "Mho",
+                "Tesla",
+                "Joule"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Undertale&quot;, the main character of the game is Sans.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "With which doubles partner did John McEnroe have most success?",
+            "correct_answer": "Peter Fleming",
+            "incorrect_answers": [
+                "Mark Woodforde",
+                "Michael Stich",
+                "Mary Carillo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Lanky, Funky, and Chunky are all characters featured in which series owned by Nintendo?",
+            "correct_answer": "Donkey Kong",
+            "incorrect_answers": [
+                "Mario",
+                "Kirby",
+                "Zelda"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "When did the website &quot;Facebook&quot; launch?",
+            "correct_answer": "2004",
+            "incorrect_answers": [
+                "2005",
+                "2003",
+                "2006"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "In 1720, England was in massive debt and became involved in the South Sea Bubble. Who was the main mastermind behind it?",
+            "correct_answer": "John Blunt",
+            "incorrect_answers": [
+                "Daniel Defoe",
+                "Robert Harley",
+                "John Churchill"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "In &quot;It&#039;s Always Sunny in Philadelphia&quot; what was the name of Frank&#039;s wrestling persona?",
+            "correct_answer": "The Trash Man",
+            "incorrect_answers": [
+                "Bird of War",
+                "Day Man",
+                "The Maniac"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the virus that infected New York in Tom Clancy&#039;s The Division?",
+            "correct_answer": "Dollar Flu",
+            "incorrect_answers": [
+                "Ebola",
+                "Red Poison",
+                "Smallpox"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "It&#039;s not possible to format a write-protected DVD-R Hard Disk.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Along with Oxygen, which element is primarily responsible for the sky appearing blue?",
+            "correct_answer": "Nitrogen",
+            "incorrect_answers": [
+                "Helium",
+                "Carbon",
+                "Hydrogen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What is the name of the protagonist of the 2017 anime &quot;Land of the Lustrous&quot;?",
+            "correct_answer": "Phosphophyllite",
+            "incorrect_answers": [
+                "Watermelon Tourmaline",
+                "Cinnabar",
+                "Padparadscha"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Not including false teeth; A human has two sets of teeth in their lifetime.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "&quot;Santa Claus&quot; is a variety of melon.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What is the surname of the character Daryl in AMC&#039;s show The Walking Dead?",
+            "correct_answer": "Dixon",
+            "incorrect_answers": [
+                "Grimes",
+                "Dickinson",
+                "Dicketson"
+            ]
+        }
+    ]
+}

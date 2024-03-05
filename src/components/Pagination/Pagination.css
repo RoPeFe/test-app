@@ -1,0 +1,31 @@
+.pagination {
+    display: flex;
+    justify-content: center;
+}
+
+.pagination button {
+    background-color: #00bc8c;
+    color: #fff;
+    border-radius: 0;
+    border: 1px solid transparent;
+    padding: 1.125rem 1.68rem;
+    line-height: 1.3333333;
+    font-size: 1.18rem;
+    font-weight: 500;
+    font-family: inherit;
+    cursor: pointer;
+    transition: border-color 0.25s;
+}
+
+.pagination button.active,
+.pagination button:hover {
+    background-color: #00dba3;
+}
+
+.pagination button:first-child {
+    border-radius: .5rem 0 0 .5rem;
+}
+
+.pagination button:last-child {
+    border-radius: 0 .5rem .5rem 0;
+}
